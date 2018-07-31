@@ -1,0 +1,35 @@
+{
+  "start": "node server.js",
+  "name": "synergy",
+  "version": "1.0.0",
+  "description": "discord bot that can do stuff",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "discord.js-music": "^2.1.0",
+    "dotenv": "^6.0.0",
+    "ffmpeg-binaries": "^4.0.0",
+    "fs": "0.0.1-security",
+    "gif-search": "^2.0.1",
+    "isomorphic-fetch": "^2.2.1",
+    "lodash": "^4.17.10",
+    "opusscript": "0.0.6",
+    "xkcd": "^1.1.3",
+    "yt-search": "^0.1.4",
+    "ytdl-core": "^0.21.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xznth/synergy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xznth/synergy/issues"
+  },
+  "homepage": "https://github.com/xznth/synergy#readme"
+}
